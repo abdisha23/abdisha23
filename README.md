@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs/291256869/original/b3d26c5d8383438021246cfcbe7fd70c336161fd/be-your-mern-stack-developer-or-front-end-developer.jpg" alt="MERN Stack Developer Image">
-</div>
+
 <h1 align="center">👋 Hi there, call me <span style="color: #ff4500; font-family: Arial, sans-serif;">Abdi Bekele</span></h1>
 <h3 align="center">I'm a passionate full stack developer, currently studying computer science at Addis Ababa University. </br> I have a strong interest in software development and enjoy working with HTML, CSS, JS, React and </br> back-end development technologies like Node.js and PHP. </h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"
